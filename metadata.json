@@ -1,0 +1,7 @@
+{
+  "name": "Arty:AI Art Tutor",
+  "description": "A vibrant drawing application for teens (11-15) featuring a smart AI tutor that provides real-time feedback, creative challenges, and interactive art lessons.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
